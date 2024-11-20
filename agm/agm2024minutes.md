@@ -2,8 +2,6 @@
 layout: default
 ---
 
-### OSGeo:UK 2024 AGM
-
 ### Minutes of OSGeo:UK 2024 AGM
 18th November 2024 at 1pm, online
 
@@ -32,7 +30,7 @@ Noted that some venues in FOSS4G:UK local last year needed some subsidy, hence t
 
 All officers and members apart from Tom Chadwin and Joseph Seddon had indicated their willingness to be re-elected, leaving one vacancy on the committee. After discussion, Catherine Clissold-Jones was unanimously elected to fill the vacant spot, and Jonny Huck proposed as a co-opted member, to be confirmed by the committee. Dave Barter volunteered to work as co-Treasurer with Matt Travis.
 
-The pros and cons of limited terms of 3 years for committee members/officers was discussed. Agreed that this was a long term goal, but was dependent on adequate numbers of members involved to fill positions. Also noted that specific roles for committee members are useful, particularly for new members. Additionally it was pointed out that while we have a constitution because we are required to have one to have a bank account, we can alter it as we wish to to better reflect how we wish to run OSGeo:UK. It was suggested the 'de-formalise' the constitution as much as possible. The committee will discuss all of these points further.
+The pros and cons of limited terms of 3 years for committee members/officers was discussed. Agreed that this was a long term goal, but was dependent on adequate numbers of members involved to fill positions. Also noted that specific roles for committee members are useful, particularly for new members. Additionally it was pointed out that while we have a constitution because we are required to have one to have a bank account, we can alter it as we wish to to better reflect how we wish to run OSGeo:UK. It was suggested to 'de-formalise' the constitution as much as possible. The committee will discuss all of these points further.
 
 ### QGIS Domains - update
 
