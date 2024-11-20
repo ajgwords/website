@@ -43,7 +43,7 @@ Tom A agreed to take on a social media comms role to supplement this. Al was con
 
 The figures for social media followers / communications are:
 - UK mailing list: 287 (+6 since 2023)
-- Newsletter: ~900 (new in 2024)
+- Newsletter: 971 (new in 2024)
 - Matrix room: 77 (+1)
 - Twitter/X OSGeo:UK: 1,162 (-31)
 - Twitter/X FOSS4GUK: 785 (-28)
@@ -60,7 +60,8 @@ Also noted that a budget up front would have been useful.
 
 There is some interest in organising FOSS4G Europe or international. Paul has done some initial research, for both Europe and international we would need to express an interest asap. 2026 is first realistic date, though 2027 is also an option. Paul will follow up.
 Agreed that we would aim to stage a national event in 2025. Noted that a healthy reserve will be needed to fund this - probably at least £8k. There has been some discussion about holding this in Bristol, but there may be other opportunities - Al will ask for suggestions on the [OSGeo:UK list](https://lists.osgeo.org/pipermail/uk/2024-November/001300.html).
-It was suggested that a member of the committee should be responsible for encouraging/coordinating events, large and small. Al volunteered for this. 
+It was suggested that a member of the committee should be a point of contact to represent the OSGeo:UK committee on event organising teams. This role would ensure the event sits within the values and finances of OSGeo:UK. Al volunteered for this role. 
+
 
 ### Funding of Open Source Geo Projects ([GoFundGeo](https://uk.osgeo.org/gofundgeo.html))
 
