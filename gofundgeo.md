@@ -6,25 +6,24 @@ layout: default
 
 ### Supporting Open Source Geospatial software development in the UK
 
-Every year at our AGM (in November) we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. In [2023](#2022-23) we supported 7 projects with a total of £5,633 and in [2022](#2021-22) we supported 5 projects with £3,879. 
 
-This year we have a budget of £6,150 and will be making the decision about which projects we support at our [AGM on Mon 18th November](agm/agm2024.html). Come along and have your say!
+### 2023-24
 
-We are looking to use this money to fund relevant projects in the range of £500 - £1000 each.
+At our [AGM on 18th November 2024](https://uk.osgeo.org/agm/agm2024minutes.html), we agreed to fund a total of £5,003 across 6 projects. 
 
-We have now closed applications and are in the review stage. We will discuss the submissions at the AGM on Mon 18th Nov, and decide which ones to fund.
-
-The submissions are currently listed in [Google Docs](https://docs.google.com/document/d/1VzP4LEixkOQluIAMwamAWbmiEHzxM1lFGrFG_lz_Bl4/edit?usp=sharing){:target="_newpage"}. Please add your comments. 
-
-We would like to hear from you - what project(s) do you think we should fund?
-
-We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
-
-We are happy to confirm we have secured £150 from [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} to support GoFundGeo projects. If your organisation is interested in supporting this, please email <span class="osgeoemail"></span>. 
+* [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£963 per year
+* [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£840 per year
+* [qgis2web](https://github.com/qgis2web/qgis2web): Supporting Andrea Ordonselli to develop gis2web, £1,000
+* [GeoServer](https://geoserver.org/behind%20the%20scenes/2024/09/10/gs3.html) Supporting GeoServer's crowdfunding campaign
+* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), £1,000
+* [GISRUK & OSGeo:UK GoFundGeo Award](https://2024.gisruk.org//osgeo/) supporting the award for 2025, last year it was awarded to [Flexurba](#flexurba-gisruk--osgeouk-gofundgeo-award) £200
+* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £3,803, we continue to be a [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/). 
 
 [<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
 
-If you have any questions, or need any more information please email <span class="osgeoemail"></span> or come along to the [AGM on Mon 18th Nov at 1pm](https://uk.osgeo.org/agm/agm2024.html). 
+With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £150 to support the above projects. If your organisation is interested supporting future funding, please email <span class="osgeoemail"></span>. 
+
+We have around £1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check out [funding guidlines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
 
 ----
 
@@ -60,7 +59,7 @@ Sustaining membership income is used primarily for bug fixing, quality assurance
 
 ----
 
-### Flexurba: GISRUK & OSGeo:UK GoFundGeo Award
+### Flexurba: GISRUK & OSGeo:UK GoFundGeo Award 2024
 
 [GISRUK and OSGeo:UK](https://2024.gisruk.org/osgeo/) have co-funded a GoFundGeo grant of £500 that has been offered to one GISRUK presenter who presents a tool or technique that has potential for wide uptake in the open source geospatial (OSGeo) community. The purpose of the grant is to help the recipient to make their approach easily adoptable through the provision of open source code repository and/or tool (e.g. a QGIS plugin). 
 
