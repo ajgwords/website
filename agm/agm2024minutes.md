@@ -5,7 +5,7 @@ layout: default
 ### Minutes of OSGeo:UK 2024 AGM
 18th November 2024 at 1pm, online
 
-### Officers and Trustees Present
+### Members Present
 Nick Bearman (Chair), Ant Scott (Secretary), Matt Travis (Treasurer), Alastair Graham, Tom Armitage, Dave Barter (Committee), James Milner, Paul Wittle, Alexei Schwab, Jonny Huck, Catherine Clissold-Jones, Steven Feldman, Dan Ormsby, Ian Mayo
 
 #### Apologies for Absence
@@ -24,7 +24,7 @@ Noted that conference insurance question needs to be followed up before the next
 	- Balance at year end (end March 2024) was £14,000.90
 	- Current balance for AGM is £13,825.54
 
-Noted that some venues in FOSS4G:UK local last year needed some subsidy, hence the small loss. There is expected to be a small surplus in the current year following a successful FOSS4G:UK South West event.
+Noted that some venues in FOSS4G:UK local 2023 needed some subsidy, hence the small loss. There is expected to be a small surplus in the current year following a successful FOSS4G:UK South West event.
  
 ### Election of officers
 
@@ -82,5 +82,7 @@ For next time, consider diversity goals and improving academic links, and encour
 
 Agreed that the OSGeo:UK website needs a revamp - Al will review. Pages need titles, [Alexi will add an issue for this](https://github.com/osgeouk/website/issues/159).
 Links on website for committee should go to OSGeo profiles.
+
+Nick was thanked for his unstinting work for OSGeo:UK over the past year.
 
 ### Date of next AGM - proposing Nov 2025
