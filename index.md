@@ -10,9 +10,9 @@ Everything is in place for a fantastic [one day Bristol OSGeo:UK meetup in Novem
 
 ----
 
-***GoFundGeo** is now closed for applications! [Details here](gofundgeo.html) Come along to the [AGM on Mon 18th Nov 2024 1pm online](agm/agm2024.html) to discuss which projects we should fund.* 
+***GoFundGeo** has funded £5,003 across [6 different projects!](gofundgeo.html) Congratulations to all the award recipients.* 
 
-*[**OSGeo:UK AGM** Mon 18th Nov 2024 1pm online, GoFundGeo discussion](agm/agm2024.html)*
+*[**OSGeo:UK AGM** Mon 18th Nov 2024 1pm, Minutes now online](agm/agm2024minutes.html)*
 
 ----
 
@@ -105,10 +105,10 @@ __Officers__
 __Committee__
 
 * [Dave Barter](https://twitter.com/NautoGuide)
-* [Tom Chadwin](https://en.osm.town/@tomchadwin)
 * [Alastair Graham](https://social.vivaldi.net/@ajggeoger)
 * [Tom Armitage](https://twitter.com/MapNav_Tom)
-* [Joseph Seddon](https://twitter.com/josephseddon) *co-opted non-voting member*
+* [Catherine Clissold-Jones]()
+* [Jonny Huck]() *co-opted non-voting member, to be confirmed by the committee*
 
 ### Funding
 
