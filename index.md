@@ -106,7 +106,7 @@ __Committee__
 
 * [Dave Barter](https://twitter.com/NautoGuide)
 * [Alastair Graham](https://social.vivaldi.net/@ajggeoger)
-* [Tom Armitage](https://twitter.com/MapNav_Tom)
+* [Tom Armitage](https://www.osgeo.org/member/armitage/)
 * [Catherine Clissold-Jones]()
 * [Jonny Huck]() *co-opted non-voting member, to be confirmed by the committee*
 
