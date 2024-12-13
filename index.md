@@ -9,7 +9,7 @@ Thanks for filling out our [Feedback form](https://docs.google.com/forms/d/e/1FA
 
 We had a fantastic [one day Bristol OSGeo:UK meetup in November](https://uk.osgeo.org/foss4guk2024/bristol.html) at our now customary venue [The Engine Shed](https://engine-shed.co.uk/) at Bristol Temple Meads station. The [programme](https://uk.osgeo.org/foss4guk2024/bristol.html#programme) got to hear presentations on great topics, discussions, and took part in networking. Of course, there was Geodrinks afterwards. 
 
-A complete write up is included in the December newsletter, so make sure you are signed up![Sign Up Link](https://stats.sender.net/forms/b4160d/view)
+A complete write up is included in the December newsletter, so make sure you are signed up: [Sign Up Link](https://stats.sender.net/forms/b4160d/view)
 
 ----
 
