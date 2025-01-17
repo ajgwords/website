@@ -44,9 +44,7 @@ Click [here to see an example of the newsletter](https://campaign-statistics.com
 
 ### GoFundGeo & AGM 2024
 
-OSGeo:UK AGM took place on Mon 20th Nov 2024 and the [minutes](https://uk.osgeo.org/agm/agm2024minutes.html) are now available. 
-
-We agreed to fund a total of £5,003 across 6 projects through [GoFundGeo](gofundgeo.html) - see the minutes for full details.
+OSGeo:UK AGM took place on 18 Nov 2024 and the [minutes](https://uk.osgeo.org/agm/agm2024minutes.html) are now available.We agreed to fund a total of £5,003 across 6 projects through [GoFundGeo](gofundgeo.html) - see the minutes for full details.
 
 With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. 
 
