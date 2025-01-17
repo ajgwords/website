@@ -7,7 +7,7 @@ title: "OSGeo: UK"
 
 Thanks for filling out our [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeAePBAs_10bPF49n_QQRXbQNeKuOda1dRNsAlccjDyGGBspw/viewform) for FOSS4G:UK South West 2024. Ciaran Sweet of Development Seed won an e-book copy of [Using R as a GIS](https://locatepress.com/book/rgis) in our randomiser. Congratulations! 
 
-We had a fantastic [one day Bristol OSGeo:UK meetup in November](https://uk.osgeo.org/foss4guk2024/bristol.html) at our now customary venue [The Engine Shed](https://engine-shed.co.uk/) at Bristol Temple Meads station. The [programme](https://uk.osgeo.org/foss4guk2024/bristol.html#programme) got to hear presentations on great topics, discussions, and took part in networking. Of course, there was Geodrinks afterwards. 
+We had a fantastic [one day FOSS4G:UK SW meetup in Bristol in November 2024](https://uk.osgeo.org/foss4guk2024/bristol.html) at our now customary venue [The Engine Shed](https://engine-shed.co.uk/) at Bristol Temple Meads station. The [programme](https://uk.osgeo.org/foss4guk2024/bristol.html#programme) got to hear presentations on great topics, discussions, and took part in networking. Of course, there was Geodrinks afterwards. 
 
 A complete write up is included in the December newsletter, so make sure you are signed up: [Sign Up Link](https://stats.sender.net/forms/b4160d/view)
 
@@ -42,35 +42,15 @@ Click [here to see an example of the newsletter](https://campaign-statistics.com
  
 ----
 
-### GoFundGeo & AGM 2023
+### GoFundGeo & AGM 2024
 
-OSGeo:UK AGM took place on Mon 20th Nov 2023 and the [minutes](https://uk.osgeo.org/agm/agm2023minutes.html) are now available. 
+OSGeo:UK AGM took place on Mon 20th Nov 2024 and the [minutes](https://uk.osgeo.org/agm/agm2024minutes.html) are now available. 
 
-We agreed to fund a total of £5,633 across 7 projects through [GoFundGeo](gofundgeo.html):
-
-* [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£963 per year
-* [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£870 per year
-* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), up to £1,000
-* North Road/Nyall Dawson: QGIS layout background formatting, £1,000
-* [GISRUK GoFundGeo](https://2024.gisruk.org//osgeo/): £200
-* Dorset Code Sprint: £600
-* [qgis2web](https://github.com/tomchadwin/qgis2web): Supporting Andrea Ordonselli to take on and develop gis2web, £1,000
-* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £1,833 / $2,317, we are now an [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/). 
+We agreed to fund a total of £5,003 across 6 projects through [GoFundGeo](gofundgeo.html) - see the minutes for full details.
 
 With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. 
 
-We have around £500-£1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check our [funding guidelines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
-
-At the AGM we also agreed to the development of a regular newsletter, and discussion of how we use our existing communications channels. 
-
-
-----
-
-### FOSS4G:UK Local 2023
-
-[FOSS4G:UK Local 2023](foss4guklocal2023/index.html) went really well. It was held on Thurs 7th Sept, and we reached about 250 people across eight venues in two countries. We raised about £5000 for OSGeo:UK which will go towards our funding of Open Source Geospatial software over the coming year. The full programme is available in [PDF](foss4guklocal2023/2023_MAIN_Agenda - Google Sheets.pdf){:target="_newpage"} or [Google Sheets](https://docs.google.com/spreadsheets/d/1ewkqvMZqXIwDtyEtCxdKte7czpZxUjqqlCZkY1REmzc/edit?usp=sharing){:target="_newpage"}. See individual [venue pages](foss4guklocal2023/index.html#venues) pages for more details. 
-
-We have done a short [write up](foss4guklocal2023/lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We’re planning to run a conference in 2024, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) or email <span class="osgeoemail"></span> to find out when we’ll be meeting to discuss this.
+See under _Funding_ below for more details. 
 
 ----
 
@@ -78,7 +58,7 @@ We have done a short [write up](foss4guklocal2023/lessons-learned.html), summari
 
 Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
 
-[FOSS4G:UK Local 2023](foss4guklocal2023/index.html) | [FOSS4G:UK Local 2022](/foss4guk2022local/) | [FOSS4GUK Online 2020](/foss4gukonline2020/) | [FOSS4GUK 2019](/foss4guk2019/)
+[FOSS4G:UK SW 2024](foss4guk2024/index.html) |[FOSS4G:UK Local 2023](foss4guklocal2023/index.html) | [FOSS4G:UK Local 2022](/foss4guk2022local/) | [FOSS4GUK Online 2020](/foss4gukonline2020/) | [FOSS4GUK 2019](/foss4guk2019/)
 
 See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
 
@@ -86,12 +66,13 @@ See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for 
 
 For updates follow [@osgeouk on Mastodon](https://fosstodon.org/@osgeouk), [@osgeouk on Twitter](https://twitter.com/osgeouk){:target="_newpage"}, [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, or [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"}.
 
-
+<!--
 ### Training
 
 See the [training page](training.html) for details of upcoming training courses related to OSGeo projects. 
 
 Training providers- see the instructions at the bottom of that page for how to add your own courses to the list.
+-->
 
 ### Legal
 
@@ -110,8 +91,8 @@ __Committee__
 * [Dave Barter](https://twitter.com/NautoGuide)
 * [Alastair Graham](https://social.vivaldi.net/@ajggeoger)
 * [Tom Armitage](https://www.osgeo.org/member/armitage/)
-* [Catherine Clissold-Jones]()
-* [Jonny Huck]() *co-opted non-voting member, to be confirmed by the committee*
+* Catherine Clissold-Jones
+* Jonny Huck (co-opted non-voting member)
 
 ### Funding
 
