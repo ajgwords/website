@@ -69,7 +69,6 @@ Get in touch with one of the organising committee members below, or email us at 
 | 14:25-14:35  | [Dennis Bauszus](https://uk.osgeo.org/foss4guk2024/programme_details.html#dennis-bauszus)	(GEOLYTIX) _Dogfooding OSGeo - Should the inmates run the asylum?_  [Deck PDF](decks/10-dennis-bauszus-dogfooding-osgeo.pdf) [YouTube](https://youtu.be/td4rWSIWlTw)|
 | 14:35-14:55| [Al Graham](https://uk.osgeo.org/foss4guk2024/programme_details.html#al-graham)	(Freelance) _Start the Overture_ [Deck PDF](decks/11-al-graham-overture.pdf) [YouTube](https://youtu.be/lycoMIVYA_g?si=PJOIGy2JwYVYLlnD)|
 |14:55-15:20 Coffee break|
-|14:55-15:20 Coffee break|
 |15:20-15:40| [Peter Petrik](https://uk.osgeo.org/foss4guk2024/programme_details.html#peter-petrik)	(Lutra Consulting Ltd.) _Mergin Maps: your field data collection tool_ [Deck PDF](decks/12-peter-petrik-mergin-maps.pdf) [YouTube](https://youtu.be/F2pfhkhCnh0)|
 |15:40-16:00| [Alexei Schwab](https://uk.osgeo.org/foss4guk2024/programme_details.html#alexei-schwab) (British Red Cross)	_Creating a grid layout plugin for QGIS_ [Deck PDF](decks/13-alexei-qgis-grid-layout-plugin.pdf) [YouTube](https://youtu.be/QqU2xhHtmhI)|
 |16:00-16:20| [Matt Travis](https://uk.osgeo.org/foss4guk2024/programme_details.html#matt-travis) (Addresscloud) _Unlocking the Power of Overture Maps with DuckDB Spatial_ [Deck PDF](decks/14-matt-travis-overture.pdf) [YouTube](https://youtu.be/H7G-zwZg4hM)|
